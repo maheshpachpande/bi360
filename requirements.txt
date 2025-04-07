@@ -1,0 +1,7 @@
+dotenv
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+pymysql
